@@ -1,0 +1,4 @@
+-- Create game which contains the 4 basics operations (+,*,-,/)
+-- / should be integers: app shouldn't present the division 7/2 to the user, since it doesn't result in an integer.
+-- Users should be presented with a menu to choose an operation
+-- Game should be record lasts games, but only in the session
