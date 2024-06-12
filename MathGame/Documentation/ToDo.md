@@ -2,4 +2,5 @@
 ----to add timer or something like to be game
 -- / should be integers: app shouldn't present the division 7/2 to the user, since it doesn't result in an integer. done
 -- Users should be presented with a menu to choose an operation done
--- Game should be record lasts games, but only in the session
+-- Game should be record lasts games, but only in the session done
+-- change switch for enums
